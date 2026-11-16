@@ -132,6 +132,3 @@ Lists products that have never appeared in any order, useful for spotting slow-m
 - Reading query results to draw practical business findings
 
 
-**Lucy Odhiambo**
-Data Engineering trainee at LuxDevHQ | SQL | Power BI | Linux
-GitHub: [github.com/lucyodhiambo](https://github.com/lucyodhiambo)
