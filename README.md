@@ -1,10 +1,6 @@
 # SokoMart_Kenya
-an online shop selling electronics, groceries, fashion, home appliances and beauty products across Kenya.
+ A Kenyan e-commerce database online shop selling electronics, groceries, fashion, home appliances and beauty products across Kenya.
 
-
-# SokoMart Advanced SQL Analysis
-
-A collection of advanced PostgreSQL queries, functions and stored procedures written against **SokoMart**, a Kenyan e-commerce database. The project covers practice drills and five business questions, and was completed as part of the Data Engineering programme at LuxDevHQ.
 
 ## Overview
 
